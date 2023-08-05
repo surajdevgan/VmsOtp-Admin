@@ -1,7 +1,7 @@
 package com.medipro.vmsotp;
 
 
-// This is the Admin User App
+// This is the Admin App
 
 
 import androidx.annotation.NonNull;
